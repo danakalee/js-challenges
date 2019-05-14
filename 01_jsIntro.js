@@ -14,6 +14,8 @@
 
 function setNumbers(num) {
   // Your code here
+  return numbers = num;
+
 }
 var assert = require('assert');
 
@@ -32,3 +34,6 @@ describe('jsIntro', () => {
     assert.equal(numbers, 9);
   });
 });
+
+const myString = 'my string'
+let numbers = 7
