@@ -14,4 +14,6 @@
     `git checkout master && git merge <challenge_branch>`
     1. Push to master in your fork:<br/>
      `git push origin master`
-g
+
+## List of challenge branches
+01_jsIntro
